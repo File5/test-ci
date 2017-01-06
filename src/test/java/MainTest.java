@@ -23,9 +23,4 @@ public class MainTest {
         assertEquals(expected, actual);
     }
 
-    @Test
-    public void test_always_fails() throws Exception {
-        assertTrue(false);
-    }
-
 }
